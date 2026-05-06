@@ -1,11 +1,12 @@
 ## Hey,I am Astha 👋
 
 <!--
+
 B.Tech Computer Science and Engineering Graduate,Passionate about Python development, backend engineering,API development, web scraping,AI/ML,Data Science.
 Focused on building scalable backend applications, automation systems, REST APIs, and data-driven AI solutions.
 Skilled in Python,SQL,FastAPI, BeautifulSoup, Machine Learninga nd Data Analytics with hands-on project experience, hackathon participations, internship, and technical certifications.
 
-# Core Specializations:
+## Core Specializations:
 - Python Development
 - Backend Development
 - REST API Development (FastAPI, Flask)
@@ -15,7 +16,7 @@ Skilled in Python,SQL,FastAPI, BeautifulSoup, Machine Learninga nd Data Analytic
 - Big Data Fundamentals
 - Open Source Contributions
 
-# Technical Skills:
+## Technical Skills:
 • Languages
 -Python ,SQL, HTML, CSS ,JavaScript
 • Backend & APIs
@@ -31,38 +32,38 @@ Skilled in Python,SQL,FastAPI, BeautifulSoup, Machine Learninga nd Data Analytic
 • Tools
 -Git , GitHub ,VS Code , Jupyter Notebook
 
-# Professional Experience
+## Professional Experience
 
-# Technical Internship Experience
+## Technical Internship Experience
 
-# Hackathon Participation
+## Hackathon Participation
 
-# Skill Certifications
+## Skill Certifications
 
-# Project Development
+## Project Development
 
-# Open Source Contributions
+## Open Source Contributions
 
-# Featured Work
+## Featured Work
 - Backend Systems
 - API Development Projects
 - Web Scraping Projects
 - Machine Learning Projects
 - Data Analytics Projects
 
-# Certifications
+## Certifications
 - Technical Skill Certifications
 - Internship Certifications
 - Hackathon Participation Certificates
 
-# 🔭 I’m currently working on :
+## 🔭 I’m currently working on :
 - Scalable Backend Systems
 - FastAPI Development
 - Machine Learning Projects
 - API Optimization
 - Open Source Development
 
-# Open to:
+## Open to:
 - Python Developer Roles
 - Backend Developer Roles
 - API Developer Roles
@@ -71,7 +72,7 @@ Skilled in Python,SQL,FastAPI, BeautifulSoup, Machine Learninga nd Data Analytic
 - Machine Learning Roles
 - Data Science Roles
 
-# 📫 How to reach me:
+## 📫 How to reach me:
 LinkedIn: www.linkedin.com/in/asthamalviya14
 Email: asthamalviya980@gmail.com
 
