@@ -1,7 +1,7 @@
 ## Hey,I am Astha 👋
 
 
-B.Tech Computer Science and Engineering Graduate,Passionate about Python development, backend engineering,API development, web scraping,AI/ML,Data Science.
+Passionate about Python development, backend engineering,API development, web scraping,AI/ML,Data Science.
 Focused on building scalable backend applications, automation systems, REST APIs, and data-driven AI solutions.
 Skilled in Python,SQL,FastAPI, BeautifulSoup, Machine Learning and Data Analytics with hands-on project experience, hackathon participations, internship, and technical certifications.
 
